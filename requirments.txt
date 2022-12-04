@@ -75,6 +75,7 @@ pywinpty=2.0.9=pypi_0
 pyzmq=24.0.1=pypi_0
 qtconsole=5.4.0=pypi_0
 qtpy=2.3.0=pypi_0
+scipy=1.9.3=pypi_0
 send2trash=1.8.0=pypi_0
 setuptools=65.5.0=py310haa95532_0
 six=1.16.0=pypi_0
